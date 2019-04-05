@@ -1,0 +1,14 @@
+1)de creat proiect web 
+2)de initializat versionarea proiectului 
+3)de initializat evidenta dependentilor si alte capatate cu npm scriptarea
+4)instalati bootstrap utilizind npm
+5)instalati json server (initializati un fisier json conform variantei web)
+6)initializati o adresarea asincrona la backend vizualizind starile (dev tools browserului )
+	a) in cit timp se realezeaza requestu
+	b) care este codul raspuns din headerul requestului
+	c) indicati o viteza minima de incarcarea resursului vostru
+	d) faceti un slide de imageni in timeline de incarcare a respectiv 
+	e) avind variabile variabile JS in consola realizati diferite ...  
+
+De versionat numai codul ni nu biblioteci
+	npm install ...........
