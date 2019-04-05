@@ -12,3 +12,4 @@
 
 De versionat numai codul ni nu biblioteci
 	npm install ...........    
+d
